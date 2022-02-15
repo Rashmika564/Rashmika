@@ -30,7 +30,7 @@ body {
 h1,
 h2,
 h3 {
-  color: #232323;
+  color: var(--color-secondary);
   margin-bottom: 1rem;
   line-height: 1.1;
 }
