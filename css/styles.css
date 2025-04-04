@@ -686,6 +686,7 @@ list-tick .list__item {
   flex-direction: row;
   gap: 2.5rem;
   justify-content: space-around;
+  color: whitesmoke;
 }
 .icon {
   cursor: pointer;
