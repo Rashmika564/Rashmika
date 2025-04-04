@@ -624,7 +624,7 @@ list-tick .list__item {
 /*Navbar*/
 .nav {
   display: flex;
-  background-color: #1a5276;
+  background-color: #232323;
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 0 1rem;
