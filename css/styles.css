@@ -687,6 +687,10 @@ list-tick .list__item {
   gap: 2.5rem;
   justify-content: space-around;
   color: black;
+  padding: 2rem 3rem;
+}
+.article-container .list__item {
+  margin-bottom: 2rem;
 }
 .icon {
   cursor: pointer;
